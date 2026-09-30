@@ -1,7 +1,8 @@
 {
   "coverage_gaps": [
     "archive entries are title-only and were not transcribed",
-    "ambiguous title-only matches require human review"
+    "ambiguous title-only matches require human review",
+    "selected-150e03ddfe150c44c2（ART）：根据来源同步回执，原处置文件当前不可读取；保留 deferred 状态，处置理由、冷却期及重新推荐条件待人工复核，依赖该缺失证据的候选不得自动通过。"
   ],
   "master_sha256": "568a684577f37aad94f09c46df91775ea4c24a8bcdd367c1d407de321b2b6fe5",
   "record_count": 169,
