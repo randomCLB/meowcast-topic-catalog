@@ -4,8 +4,8 @@
     "ambiguous title-only matches require human review",
     "selected-150e03ddfe150c44c2（ART）：根据来源同步回执，原处置文件当前不可读取；保留 deferred 状态，处置理由、冷却期及重新推荐条件待人工复核，依赖该缺失证据的候选不得自动通过。"
   ],
-  "master_sha256": "568a684577f37aad94f09c46df91775ea4c24a8bcdd367c1d407de321b2b6fe5",
-  "record_count": 169,
+  "master_sha256": "0e8815ca6874a8a6f58c2a5deb94cb93a4addc29841e1041a19cd09b7d695134",
+  "record_count": 170,
   "records": [
     {
       "audience_question": "",
@@ -3724,8 +3724,30 @@
       "status": "delivered",
       "title": "吸入式siRNA进了人体试验：离肺病患者真正受益还有几步？",
       "updated_at": "2026-09-28T15:08:12+00:00"
+    },
+    {
+      "audience_question": "人很瘦为什么仍可能有脂肪肝？已经有脂肪肝或代谢风险的人，正常BMI能不能排除严重肝病风险？",
+      "communication_angle": "保留“瘦的人为什么仍会脂肪肝”的核心，从体重秤的直觉走向肝内脂肪与纤维化的区别；结合1980年NASH病例和2026年41国队列，解释为何已有MASLD的人需要评估纤维化，不能凭身材判断健康。",
+      "content_depth": "selection_packet",
+      "date": "2026-09-30",
+      "date_anomaly": false,
+      "disease_or_subject": "瘦型代谢功能障碍相关脂肪性肝病（lean MASLD）及肝纤维化风险分层",
+      "drug_or_technology": "肝活检队列；BMI与腰围分型；FIB-4血液评分；瞬时弹性成像测肝硬度",
+      "episode": 315,
+      "episode_conflict": false,
+      "id": "selected-cc093b06a12471d211",
+      "mechanism": "体重指标与肝内脂肪、炎症和纤维化不是同一测量；本研究比较瘦型与超重/肥胖MASLD的结局关联，未验证某一种导致瘦型脂肪肝的单独病因。",
+      "primary_paper_doi": "10.1001/jama.2026.18491",
+      "primary_paper_title": "Histologic Features and Clinical Outcomes of Lean Metabolic Dysfunction–Associated Steatotic Liver Disease",
+      "primary_paper_url": "https://jamanetwork.com/journals/jama/article-abstract/2854668",
+      "season": null,
+      "source_confidence": "verified",
+      "source_type": "selection_packet",
+      "status": "selected",
+      "title": "人很瘦，肝为什么还是会“胖”？",
+      "updated_at": "2026-10-01T06:54:31+00:00"
     }
   ],
   "schema": "meowcast_public_topic_catalog_v1",
-  "updated_at": "2026-09-28T15:08:15+00:00"
+  "updated_at": "2026-10-01T06:54:32+00:00"
 }
