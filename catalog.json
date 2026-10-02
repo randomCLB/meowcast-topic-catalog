@@ -4,7 +4,7 @@
     "ambiguous title-only matches require human review",
     "selected-150e03ddfe150c44c2（ART）：根据来源同步回执，原处置文件当前不可读取；保留 deferred 状态，处置理由、冷却期及重新推荐条件待人工复核，依赖该缺失证据的候选不得自动通过。"
   ],
-  "master_sha256": "0e8815ca6874a8a6f58c2a5deb94cb93a4addc29841e1041a19cd09b7d695134",
+  "master_sha256": "6da832f914610b0657172db15d2ac4a7e2dffc476976cb0173e6bac7a0782213",
   "record_count": 170,
   "records": [
     {
@@ -3743,11 +3743,11 @@
       "season": null,
       "source_confidence": "verified",
       "source_type": "selection_packet",
-      "status": "selected",
+      "status": "delivered",
       "title": "人很瘦，肝为什么还是会“胖”？",
-      "updated_at": "2026-10-01T06:54:31+00:00"
+      "updated_at": "2026-10-02T03:54:26+00:00"
     }
   ],
   "schema": "meowcast_public_topic_catalog_v1",
-  "updated_at": "2026-10-01T06:54:32+00:00"
+  "updated_at": "2026-10-02T03:54:27+00:00"
 }
