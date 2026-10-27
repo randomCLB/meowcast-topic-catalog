@@ -4,8 +4,8 @@
     "ambiguous title-only matches require human review",
     "selected-150e03ddfe150c44c2（ART）：根据来源同步回执，原处置文件当前不可读取；保留 deferred 状态，处置理由、冷却期及重新推荐条件待人工复核，依赖该缺失证据的候选不得自动通过。"
   ],
-  "master_sha256": "f5e7c28f3cb3aca4d610d1f8915a898fe7406905ce6009504e15e21e88ff0eed",
-  "record_count": 174,
+  "master_sha256": "7af0d00c492d5b27228efe40aacccf7c79969c75c0b1f962cba2b701598cab22",
+  "record_count": 175,
   "records": [
     {
       "audience_question": "",
@@ -3834,8 +3834,30 @@
       "status": "delivered",
       "title": "一次意外造出的病鼠，三十年后等来第一种治疗药",
       "updated_at": "2026-10-16T04:59:51+00:00"
+    },
+    {
+      "audience_question": "一个连自己都差点重复不出来的实验，怎样与几十年后患者真正用上的抗癌药联系起来？",
+      "communication_angle": "用户明确故事优先：有趣故事、人物矛盾冲突，科学思想藏在行动里；Kimi自由组织完整对谈，后台集中核查事实，不逐段叠甲。",
+      "content_depth": "selection_packet",
+      "date": "2026-10-02",
+      "date_anomaly": false,
+      "disease_or_subject": "乳腺癌 HER2 positive breast cancer；癌症分子信号研究史",
+      "drug_or_technology": "trastuzumab Herceptin 曲妥珠单抗 赫赛汀；tyrosine phosphorylation 酪氨酸磷酸化",
+      "episode": 320,
+      "episode_conflict": false,
+      "id": "selected-64856d1f33e052864a",
+      "mechanism": "旧缓冲液改变电泳分离条件，识别酪氨酸磷酸化；HER2受体异常与抗体靶向治疗、人源化改造。",
+      "primary_paper_doi": "10.1073/pnas.89.10.4285",
+      "primary_paper_title": "Humanization of an anti-p185HER2 antibody for human cancer therapy",
+      "primary_paper_url": "https://pubmed.ncbi.nlm.nih.gov/1350088",
+      "season": null,
+      "source_confidence": "verified",
+      "source_type": "selection_packet",
+      "status": "published",
+      "title": "少配了一瓶试剂，却为几十年后的抗癌药打开了门",
+      "updated_at": "2026-10-27T02:30:24+00:00"
     }
   ],
   "schema": "meowcast_public_topic_catalog_v1",
-  "updated_at": "2026-10-21T14:02:26+00:00"
+  "updated_at": "2026-10-27T02:30:25+00:00"
 }
