@@ -4,8 +4,8 @@
     "ambiguous title-only matches require human review",
     "selected-150e03ddfe150c44c2（ART）：根据来源同步回执，原处置文件当前不可读取；保留 deferred 状态，处置理由、冷却期及重新推荐条件待人工复核，依赖该缺失证据的候选不得自动通过。"
   ],
-  "master_sha256": "7af0d00c492d5b27228efe40aacccf7c79969c75c0b1f962cba2b701598cab22",
-  "record_count": 175,
+  "master_sha256": "a94cc1094ea838d09c6414700bb9d52c93a921170217545f5c724285a1e77a51",
+  "record_count": 177,
   "records": [
     {
       "audience_question": "",
@@ -3856,8 +3856,52 @@
       "status": "published",
       "title": "少配了一瓶试剂，却为几十年后的抗癌药打开了门",
       "updated_at": "2026-10-27T02:30:24+00:00"
+    },
+    {
+      "audience_question": "孩子怕钻牙，家长怕折腾；有一种治疗可能留下黑色痕迹，你怎么选？",
+      "communication_angle": "区分病变停止、牙洞修复、外观满意；用两项独立试验和2026年11月来信说明总体证据怎样落到具体一颗牙与一个家庭。",
+      "content_depth": "selection_packet",
+      "date": "2026-11-02",
+      "date_anomaly": false,
+      "disease_or_subject": "儿童龋齿；严重早期儿童龋病",
+      "drug_or_technology": "氟化氨银（SDF，silver diamine fluoride）",
+      "episode": 324,
+      "episode_conflict": false,
+      "id": "selected-030b12d47dd096a34f",
+      "mechanism": "局部专业应用以阻止合适的龋损继续发展，但可使龋坏部位变黑；病变停止不等于缺损修复",
+      "primary_paper_doi": "10.1001/jamapediatrics.2026.2567",
+      "primary_paper_title": "Efficacy of Silver Diamine Fluoride on Young Children With Severe Early Childhood Caries: A Randomized Clinical Trial",
+      "primary_paper_url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2851913",
+      "season": null,
+      "source_confidence": "verified",
+      "source_type": "selection_packet",
+      "status": "delivered",
+      "title": "蛀牙停住了，牙却变黑了：这样的治疗，你愿意选吗？",
+      "updated_at": "2026-11-06T17:49:08+00:00"
+    },
+    {
+      "audience_question": "外用嫌麻烦，改成口服就一定更有效、更适合我吗？",
+      "communication_angle": "遵从用户本期方向：让一款药绕了一圈的经历做主线，不写成生发药大盘点或十种脱发机制。",
+      "content_depth": "selection_packet",
+      "date": "2026-09-21",
+      "date_anomaly": false,
+      "disease_or_subject": "雄激素性脱发 androgenetic alopecia",
+      "drug_or_technology": "米诺地尔 minoxidil 低剂量口服与外用",
+      "episode": 325,
+      "episode_conflict": false,
+      "id": "selected-80fe65b1c7a2ca022f",
+      "mechanism": "原降压药相关多毛反应转为生发用途；局部给药与全身暴露的取舍",
+      "primary_paper_doi": "10.1111/jocd.71198",
+      "primary_paper_title": "Low-Dose Oral Versus Topical Minoxidil in Androgenetic Alopecia: A Randomized, Double-Blind, Double-Dummy Controlled Trial",
+      "primary_paper_url": "https://onlinelibrary.wiley.com/doi/10.1111/jocd.71198",
+      "season": null,
+      "source_confidence": "verified",
+      "source_type": "selection_packet",
+      "status": "delivered",
+      "title": "降压药意外长出了头发，几十年后，医生为什么又开始让人吃它？",
+      "updated_at": "2026-11-07T15:16:00+00:00"
     }
   ],
   "schema": "meowcast_public_topic_catalog_v1",
-  "updated_at": "2026-10-27T02:30:25+00:00"
+  "updated_at": "2026-11-07T15:16:01+00:00"
 }
