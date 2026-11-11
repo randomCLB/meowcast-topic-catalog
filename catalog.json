@@ -4,8 +4,8 @@
     "ambiguous title-only matches require human review",
     "selected-150e03ddfe150c44c2（ART）：根据来源同步回执，原处置文件当前不可读取；保留 deferred 状态，处置理由、冷却期及重新推荐条件待人工复核，依赖该缺失证据的候选不得自动通过。"
   ],
-  "master_sha256": "a94cc1094ea838d09c6414700bb9d52c93a921170217545f5c724285a1e77a51",
-  "record_count": 177,
+  "master_sha256": "677753a74c58508696057f64e259debbe153e6de73a06e571a28a8baa3ba15a7",
+  "record_count": 178,
   "records": [
     {
       "audience_question": "",
@@ -3897,11 +3897,33 @@
       "season": null,
       "source_confidence": "verified",
       "source_type": "selection_packet",
-      "status": "delivered",
+      "status": "published",
       "title": "降压药意外长出了头发，几十年后，医生为什么又开始让人吃它？",
-      "updated_at": "2026-11-07T15:16:00+00:00"
+      "updated_at": "2026-11-11T14:45:02+00:00"
+    },
+    {
+      "audience_question": "为什么只用自己的血，也不能保证美容服务没有交叉感染风险？",
+      "communication_angle": "跟随病例发现、现场检查、名单追踪和序列比对；区分五人关联簇与三例支持服务相关传播，不猜感染源，不把个案泛化为所有PRP。",
+      "content_depth": "selection_packet",
+      "date": "2024-04-25",
+      "date_anomaly": false,
+      "disease_or_subject": "HIV感染调查 消费医疗 感染控制",
+      "drug_or_technology": "PRP 自体富血小板血浆 微针美容",
+      "episode": 326,
+      "episode_conflict": false,
+      "id": "selected-2069a8230a7aee61f5",
+      "mechanism": "血源性病原体与不安全操作；具体污染来源和逐次传播动作未确定",
+      "primary_paper_doi": "10.15585/mmwr.mm7316a3",
+      "primary_paper_title": "Investigation of Presumptive HIV Transmission Associated with Receipt of Platelet-Rich Plasma Microneedling Facials at a Spa Among Former Spa Clients — New Mexico, 2018–2023",
+      "primary_paper_url": "https://cdc.gov/mmwr/volumes/73/wr/mm7316a3.htm",
+      "season": null,
+      "source_confidence": "verified",
+      "source_type": "selection_packet",
+      "status": "selected",
+      "title": "用自己的血做美容，为什么调查员最后追查到了HIV？",
+      "updated_at": "2026-11-11T07:36:40+00:00"
     }
   ],
   "schema": "meowcast_public_topic_catalog_v1",
-  "updated_at": "2026-11-07T15:16:01+00:00"
+  "updated_at": "2026-11-11T14:45:03+00:00"
 }
